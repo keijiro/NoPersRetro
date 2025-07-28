@@ -1,3 +1,0 @@
-<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
-    <ui:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Test/Textures/Screen.renderTexture?fileID=8400000&amp;guid=2854ec7468bd54a48a429fba6dc40519&amp;type=2#Screen&quot;); -unity-background-scale-mode: scale-to-fit;"/>
-</ui:UXML>
