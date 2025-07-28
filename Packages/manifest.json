@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "com.unity.inputsystem": "1.14.1",
+    "com.unity.render-pipelines.universal": "17.3.0",
+    "jp.keijiro.klak.motion": "1.1.0",
+    "jp.keijiro.klutter-tools": "2.3.0",
+    "jp.keijiro.metamesh": "1.2.0",
+    "jp.keijiro.metatex": "1.0.4",
+    "com.unity.modules.animation": "1.0.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.keijiro"
+      ]
+    }
+  ]
+}
