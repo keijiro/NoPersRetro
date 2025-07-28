@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: penelopepsd
-  m_Shader: {fileID: -6465566751694194690, guid: 28e096356012f44ca83dd28ce612c769, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 7b1bc7f9db66b4c30bca15047f675a69, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
