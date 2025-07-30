@@ -18,6 +18,7 @@ MonoBehaviour:
   m_RendererData: {fileID: 0}
   m_RendererDataList:
   - {fileID: 11400000, guid: 8e1183055e54048bbb725e5812e38d2a, type: 2}
+  - {fileID: 11400000, guid: 2fadd3722638a4bad8e0ffda3ce4221a, type: 2}
   m_DefaultRendererIndex: 0
   m_RequireDepthTexture: 0
   m_RequireOpaqueTexture: 0
@@ -53,6 +54,7 @@ MonoBehaviour:
   m_AdditionalLightsShadowResolutionTierHigh: 1024
   m_ReflectionProbeBlending: 0
   m_ReflectionProbeBoxProjection: 0
+  m_ReflectionProbeAtlas: 0
   m_ShadowDistance: 20
   m_ShadowCascadeCount: 1
   m_Cascade2Split: 0.25
@@ -127,8 +129,11 @@ MonoBehaviour:
   m_PrefilterSoftShadowsQualityHigh: 1
   m_PrefilterSoftShadows: 0
   m_PrefilterScreenCoord: 1
+  m_PrefilterScreenSpaceIrradiance: 0
   m_PrefilterNativeRenderPass: 1
   m_PrefilterUseLegacyLightmaps: 0
+  m_PrefilterBicubicLightmapSampling: 0
+  m_PrefilterReflectionProbeRotation: 0
   m_ShaderVariantLogLevel: 0
   m_ShadowCascades: 0
   m_Textures:
