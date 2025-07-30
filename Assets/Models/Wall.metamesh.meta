@@ -14,8 +14,8 @@ ScriptedImporter:
       x: 6
       y: 1
     Subdivisions:
-      x: 8
-      y: 1
+      x: 16
+      y: 2
     Axis: 0
     DoubleSided: 0
   _box:
